@@ -31,19 +31,19 @@ class BarData {
         y: first,
       ),
       IndividualBar(
-        x: 0,
+        x: 1,
         y: second,
       ),
       IndividualBar(
-        x: 0,
+        x: 2,
         y: third,
       ),
       IndividualBar(
-        x: 0,
+        x: 3,
         y: fourth,
       ),
       IndividualBar(
-        x: 0,
+        x: 4,
         y: fifth,
       ),
     ];
